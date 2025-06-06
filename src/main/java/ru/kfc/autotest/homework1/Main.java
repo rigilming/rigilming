@@ -1,4 +1,4 @@
-package ru.kfc.autotest;
+package ru.kfc.autotest.homework1;
 
 
 import java.util.Random;
